@@ -1,0 +1,81 @@
+A Genetic Mutation Renders One Family Unable To Sweat
+In Pakistan, there lives a family of five with a unique – and tragic – condition. Several of their children cannot sweat. It’s an extremely rare disorder called anhidrosis, and while it may seem like a nice trait to have, the ability to sweat is crucial for regulating body temperature. In order to remain cool, the kids spend their days in their house’s cellar, because in daylight, they’d overheat and go unconscious. Too much sun could ultimately kill them.
+Now a group of scientists are decoding the mystery surrounding this bizarre disorder. By mapping the genome of each individual in the Pakistan family, researchers from Uppsala University in Sweden identified a single genetic mutation responsible for the condition. Known as ITPR2, the gene is responsible for controlling sweat production, and knocking it out can stop sweat secretion altogether.
+Lead researcher Niklas Dahl stumbled upon the rare family in his quest for understanding single-gene diseases, also known as Mendelian disorders. Dahl notes that anhidrosis has been seen before, but usually in conjunction with other skin defects. This family is the first he knows of to have anhidrosis as a primary isolated defect.
+After analyzing the genomes of the family members, Dahl and his team zeroed in on the culprit, ITPR2, which encodes a protein called IP3R2. This protein forms a calcium channel in the brain that releases calcium when opened, triggering a chain of events in the body that eventually result in sweat secretion. “In the brain, you have temperature sensitive cells, and they send signals to the nervous system, which send signals to the periphery, then to skin and to the sweat glands, and that induces sweating,” Dahl, a genetics expert at Uppsala, tells Popular Science.
+For the members of the Pakistan family, their calcium channels never open. The researchers further demonstrated this defect by creating a series of genetically engineered mice without any IP3R2 production. Sure enough the rodents had reduced sweating.
+Understanding the mechanisms behind sweating can actually help researchers develop drugs to reduce excessive sweating, a condition that affects two percent of the population. People with this disorder, called hyperhidrosis, start sweating in their palms, soles of their feet, chest, armpits, and other areas of the body without any provocation. Some patients will even wear plastic underneath their clothing to avoid an embarrassing situation.
+Botox has proven to be somewhat effective against hyperhidrosis, but the treatments can be painful and awkward (getting injections in your armpits cannot be fun). Dahl says that lowering IP3R2 protein levels may be a much simpler solution. “We have found a way to inhibit production of this calcium channel,” Dahl says. “It is targeted and very specific at least from a design point of view. We can reduce peripheral sweating by 60 percent.”
+Dahl also says their research highlights just how important our pungent skin secretions are from an evolutionary perspective. Humans have the highest capacity for sweating on Earth, in relation to our body size and lack of hair. This gives us the advantage of being able to exercise for very long periods of time – up to 10 hours a day.
+“Fast animals run faster than us, but they can only run for a few minutes. For humans, we could move over enormous areas because of this ability, making us very good hunters,” says Dahl. “Sweat glands made us develop this capability of walking and jogging for miles and miles without stopping.” So thank you, sweat, for helping to keep us at the top of the food chain.
+
+1) The text is mainly about
+
+a) Problems caused by excessive sweet consumption.								x
+b) Discoveries about human sweat and its implications.								*
+c) Genetic diseases that affect the brain.									x
+d) Diferences between human and animal bodies.									x
+
+2) According to the first paragraph of the text,
+
+a) the children of a family like to spend time in the cellar.							x
+b) some members of a family cannot produce sweat because of a genetic mutation.					*
+c) the inability to sweat is a nice trait.									x
+d) too much sun is dangerous for our health.									x
+
+3) What the scientists discovered about the family was that
+
+a) deactivating a specific gene can solve their problem.							x
+b) the family does not have a Mendelian disorder.								x
+c) the cause of the disease is in a single gene.								*
+d) they are from Pakistan.											x
+
+4) What are Mendelian disorders?
+
+a) Disorders that are caused by a single gene.									*
+b) Genetic diseases discovered by Mendel.									x
+c) Diseases that affect the skin and are caused by genetic mutations.						x
+d) Another name for anhidrosis.											x
+
+5) Anhidrosis and hyperhidrosis are, respectively,
+
+a) The excessive production of sweat and the abilit to sweat.							x
+b) The excessive production of sweat and the inabilit to sweat.							x
+c) The ability to sweat and the excessive production of sweat.							x
+d) The inability to sweat and the excessive production of sweat.						*
+
+6) The research conducted by the scientists included the following procedures, EXCEPT:
+
+a) They conducted brain surgery in some patients.								*
+b) They mapped the genome of the family.									x
+c) They performed experiments with mice.									x
+d) They studyied the protein ITPR2.										x
+
+7) According to the text, Botox
+
+a) is useless against hyperhidrosis.										x
+b) is better than other treatments, that are painful and awkard.						x
+c) can reduce peripheral sweating by 60%.									x
+d) is a less desirable solution than lowering IP3R2 protein levels.						*
+
+8) According to the text, each one of the following afirmation is true, EXCEPT:
+
+a) Hyperidrosis is more common that anhidrosis.									x
+b) The ability to sweat is important for humans but useless for animals.					*
+c) Humans sweat more than other animals.									x
+d) Sweating was important in human evolution.									x
+
+9) Based on the text, we can infer that the embarassing situation people with hyperidrosis try to avoid is
+
+a) having to wear plastic underneath their clothing.								x
+b) having to use Botox.												x
+c) getting sweat stains on their clothes.									*
+d) getting injections in their armpits.										x
+
+10) According to the text, sweating is important for the following reasons, EXCEPT:
+
+a) It enables us to exercise for a long time without stopping.							x
+b) It is related to the reasons we were good hunters.								x
+c) It helps to regulate body temperature.									x
+d) It keeps the food chain balanced. 										*
+
