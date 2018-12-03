@@ -1,10 +1,11 @@
 <?php
+$type = $_POST['type'];
 $data = $_POST['data'];
 
 try {
     $conn = new PDO("mysql:host=localhost;dbname=db_ingles",
         'root', 'acessoroot');
-    $sql = "INSERT INTO rst VALUES(0, '{$data}')";
+    $sql = "INSERT INTO rst VALUES(0, '{$type}', '{$data}')";
     $conn->query($sql);
 
     echo $sql;
