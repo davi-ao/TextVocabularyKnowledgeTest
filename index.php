@@ -1,5 +1,5 @@
 <?php
-$subproject = (!empty($_GET) ? $_GET["subproject"] : "");
+$subproject = (!empty($_GET) ? $_GET["sub"] : "");
 
 if ($subproject != 1 && $subproject != 2 && $subproject != 3) {
     $subproject = "";
