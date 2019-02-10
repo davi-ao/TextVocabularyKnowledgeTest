@@ -1,3 +1,10 @@
+<?php
+$subproject = (!empty($_GET) ? $_GET["subproject"] : "");
+
+if ($subproject != 1 && $subproject != 2 && $subproject != 3) {
+    $subproject = "";
+}
+?>
 <!-- 0.8.4 -->
 <!DOCTYPE html>
 <html lang="pt-BR">
@@ -20,13 +27,19 @@
     <script src="./vendor/jspsych-6.0.1/plugins/jspsych-instructions.js"></script>
     <script src="./vendor/jspsych-6.0.1/plugins/jspsych-html-button-response.js"></script>
     <script src="./vendor/jspsych-6.0.1/plugins/jspsych-survey-text.js"></script>
+
+    <style type="text/css">
+        input {
+            color: olivedrab;
+        }
+    </style>
 </head>
 <body>
 
 </body>
 <script>
 
-$.getJSON("./resources/words/words.json", function (data) {
+$.getJSON("./resources/words/words<?php echo $subproject; ?>.json", function (data) {
     var words = Object.keys(data[0]);
     var trials = [{
         type: 'survey-text',
