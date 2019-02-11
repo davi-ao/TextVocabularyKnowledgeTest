@@ -15,6 +15,7 @@
     "table": 1,
     "fridge": 1,
     "chair": 1,
+    "microwave": 1,
     "cupboard": 1,
     "sofa": 1,
     "pen": 1,
@@ -22,6 +23,7 @@
     "eraser": 1,
     "pencil": 1,
     "sharpener": 1,
+    "highlighter": 1,
     "backpack": 1,
     "glue": 1,
     "scissor": 1,
@@ -29,6 +31,7 @@
     "belt": 1,
     "pants": 1,
     "bra": 1,
+    "boots": 1,
     "t-shirt": 1,
     "shoes": 1,
     "skirt": 1,
@@ -93,5 +96,5 @@
     "plant": 1,
     "comb": 1,
     "shower": 1,
-    "keyboard": 1
- }]
+    "card": 1,
+    "keyboard": 1}]
