@@ -12,7 +12,7 @@ if ($subproject != 1 && $subproject != 2 && $subproject != 3) {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <title>Teste de Conhecimento de Vocabulário de Texto</title>
+    <title>Teste de Conhecimento de Vocabulário</title>
 
     <link href="./vendor/bootstrap-4.0.0/dist/css/bootstrap.min.css" rel="stylesheet" type="text/css">
     <link href="./vendor/jspsych-6.0.1/css/jspsych.css" rel="stylesheet" type="text/css">
@@ -44,7 +44,7 @@ $.getJSON("./resources/words/words<?php echo $subproject; ?>.json", function (da
     var trials = [{
         type: 'survey-text',
         questions: [
-            {prompt: "<h2>Teste de Aquisição de Vocabulário</h2>" +
+            {prompt: "<h2>Teste de Conhecimento de Vocabulário</h2>" +
             "<p>Antes de começar, por favor, digite seu nome completo:</p>",
             value: "", rows: 1, columns: 40}
         ],
@@ -55,7 +55,7 @@ $.getJSON("./resources/words/words<?php echo $subproject; ?>.json", function (da
     },{
         type: 'instructions',
         pages: [
-            '<h2>Teste de Aquisição de Vocabulário</h2>' +
+            '<h2>Teste de Conhecimento de Vocabulário</h2>' +
                 '<p>Esse teste traz uma lista de palavras em língua inglesa que você deverá traduzir. ' +
                 'Caso você não conheça ou não tenha certeza sobre a tradução mais apropriada para palavra, deixe o campo em branco. ' +
                 'Caso alguma palavra tenha mais que uma tradução possível, digite todas as traduções possíveis, separando-as por vírgulas.</p>',
