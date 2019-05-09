@@ -57,8 +57,9 @@ $.getJSON("./resources/words/words<?php echo $subproject; ?>.json", function (da
         pages: [
             '<h2>Teste de Conhecimento de Vocabulário</h2>' +
                 '<p>Esse teste traz uma lista de palavras em língua inglesa que você deverá traduzir. ' +
+                'Tal tradução pode ser uma palavra correspondente, ou expressão, ou uma explicação do significado.' +
                 'Caso você não conheça ou não tenha certeza sobre a tradução mais apropriada para palavra, deixe o campo em branco. ' +
-                'Caso alguma palavra tenha mais que uma tradução possível, digite todas as traduções possíveis, separando-as por vírgulas.</p>',
+                'Caso alguma palavra tenha mais que uma tradução possível, digite as traduções que você considera mais relevantes, separando-as por vírgulas.</p>',
             '<h3>Sessão de treino</h3>' +
                 '<p>Vamos iniciar com uma sessão de treino para familiarizar você com o teste.</p>',
         ],
